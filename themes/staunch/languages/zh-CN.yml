@@ -1,0 +1,33 @@
+index:
+    home: 'Home'
+    archives: 'Archives'
+    more: '👉 READ ARTICLE'
+
+page:
+    archives: 'Archives / 归档'
+    category: 'Category / 分类: '
+    tag: 'Tag / 标签: '
+    meta: 'By Face Team Show on'
+    count: 'Reading time: '
+    count_U: ' min(s)'
+    reward: 'Reward'
+    prev: 'Prev'
+    next: 'Next'
+
+sidebar:
+    notice: 'Announcement'
+    toc: 'TOC'
+    categories: 'Categories'
+    tags: 'Tags'
+    links: 'Links'
+    article: 'Article'
+    visit: 'Visit'
+    visitor: 'Visitor'
+    wordcount: 'Wordcount'
+    catalogue: 'Catalogue'
+    count: 'Count'
+
+search:
+    title: 'Begin to '
+    title_strong: 'explore'
+    hint: 'Keywords'
